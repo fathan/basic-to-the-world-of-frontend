@@ -1,0 +1,29 @@
+{
+  "name": "basic-to-the-world-of-frontend",
+  "version": "1.0.0",
+  "description": "Step by step from basic to medium in Frontend Developer stack ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fathan/basic-to-the-world-of-frontend.git"
+  },
+  "keywords": [
+    "Frontend",
+    "Javascript",
+    "CSS",
+    "HTML",
+    "Software",
+    "Engineer",
+    "Web",
+    "Developer"
+  ],
+  "author": "Fathan Rohman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fathan/basic-to-the-world-of-frontend/issues"
+  },
+  "homepage": "https://github.com/fathan/basic-to-the-world-of-frontend#readme"
+}
